@@ -1,0 +1,14 @@
+{
+  "name": "cajero-automatico",
+  "version": "1.0.0",
+  "description": "Proyecto de cajero automático en TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.0",
+    "@types/node": "^18.0.0"
+  }
+}
